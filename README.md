@@ -1,6 +1,5 @@
-![Multi Device Website Mockup ](https://user-images.githubusercontent.com/23438431/84176960-c38f3900-aab4-11ea-8c68-b88d4e0cdcf8.png)
 
-## Responsive Portfolio Website
+## Custom Bootstrap Theme Design
 
 This is very simple project about Custom Bootstrap Theme Design:: | HTML5 | CSS3 | Sass | npm | JS | Git |
 
