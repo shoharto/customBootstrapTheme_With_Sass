@@ -1,0 +1,19 @@
+{
+  "name": "custombootstraptheme_with_sass",
+  "version": "1.0.0",
+  "description": "Custom Bootstrap Theme With Sass",
+  "main": "index.js",
+  "scripts": {
+    "sass": "bootstrap-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Bayes Ahmed Shoharto",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "^3.4.1",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "sass": "^1.26.8"
+  }
+}
